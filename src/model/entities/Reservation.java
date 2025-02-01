@@ -50,6 +50,8 @@ public class Reservation {
 	public String toString() {
 		return "Room"
 				+ roomNumber
-				+ ", check-in ";
+				+ ", check-in "
+				+ "blablablabla";
+				
 	}
 }
